@@ -1,6 +1,10 @@
 # sunday-projects
 
-This repo contains projects that I've built over the weekends !
+This repository contains registry of projects that I've built over the weekends!
+
+[TOC]
+
+
 
 ## 5th August, 2018
 
@@ -29,3 +33,17 @@ Its not true, I've been working on this since past three days. I got it up and r
 #### Will come in handy going forward
 1. [Analytics - jetflix uses it](https://developers.google.com/analytics/devguides/collection/)
 2. [Tag manager - jetflix uses this as well](https://tagmanager.google.com/#/home)
+
+
+
+## 9th Sept, 2018
+
+Project: [hRank_scrap](https://github.com/pskanade/hRank_scrap)
+
+It's a scrapping tool that I built for **collecting the problem statements** for **[python specialization domain](https://www.hackerrank.com/domains/python)**.    This is supplementry project for gathering data for training the application **Stretch**. The tool is built using python library **BeautifulSoup**.
+
+### Helpful Links
+
+1. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+2. [HackerRank python domain problems](https://www.hackerrank.com/domains/python)
+
