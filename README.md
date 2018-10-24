@@ -2,10 +2,12 @@
 
 This repository contains registry of projects that I've built over the weekends!
 
-[TOC]
+PROJECTS
+-----
+1. [Mood](#mood)
+2. [Allnighter](#allnighter)
 
-
-
+<a name="mood"></a>
 ## 5th August, 2018
 
 Project : [Mood](https://github.com/pskanade/mood)
@@ -17,6 +19,7 @@ This is one of the projects that I wanted to do for a very long time. It is just
 2. [Front end js](https://www.youtube.com/watch?v=DrIiWAnxXYs&t=24s)
 3. [Mongo DB & mongoose](https://www.youtube.com/watch?v=MZ6wMonyVyY)
 
+<a name="allnighter"></a>
 ## 19th August, 2018
 
 Project: [allnighter.in](https://allnighter.in)
@@ -35,7 +38,7 @@ Its not true, I've been working on this since past three days. I got it up and r
 2. [Tag manager - jetflix uses this as well](https://tagmanager.google.com/#/home)
 
 
-
+<a name"hrank-scrap"></a>
 ## 9th Sept, 2018
 
 Project: [hRank_scrap](https://github.com/pskanade/hRank_scrap)
