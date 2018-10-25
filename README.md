@@ -6,7 +6,7 @@ PROJECTS
 -----
 1. [Mood](#mood)
 2. [Allnighter](#allnighter)
-3. [Scrapper for HackerRank](#hrank-scrap)
+3. [Scrapper for HackerRank](#hrankscrap)
 
 <a name="mood"></a>
 ## 5th August, 2018
@@ -39,7 +39,7 @@ Its not true, I've been working on this since past three days. I got it up and r
 2. [Tag manager - jetflix uses this as well](https://tagmanager.google.com/#/home)
 
 
-<a name"hrank-scrap"></a>
+<a name"hrankscrap"></a>
 ## 9th Sept, 2018
 
 Project: [hRank_scrap](https://github.com/pskanade/hRank_scrap)
