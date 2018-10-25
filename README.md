@@ -6,6 +6,7 @@ PROJECTS
 -----
 1. [Mood](#mood)
 2. [Allnighter](#allnighter)
+3. [Scrapper for HackerRank](#hrank-scrap)
 
 <a name="mood"></a>
 ## 5th August, 2018
